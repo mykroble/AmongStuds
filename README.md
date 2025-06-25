@@ -1,8 +1,7 @@
-# AmongStuds
 
 **AmongStuds** is a student-focused forum web app built with:
 
-- ⚛ React (Vite)
+- React (Vite)
 - Firebase Auth & Firestore
 - Tailwind CSS
 
