@@ -1,1 +1,9 @@
-AmongStuds is a student-focused forum web app built with React (Vite), Firebase Auth & Firestore, and Tailwind CSS. It is designed designed to foster academic discussions and peer support.
+# AmongStuds
+
+**AmongStuds** is a student-focused forum web app built with:
+
+- ⚛ React (Vite)
+- Firebase Auth & Firestore
+- Tailwind CSS
+
+The platform is designed to foster academic discussions and peer-to-peer support within a secure, responsive, and modern user interface.
